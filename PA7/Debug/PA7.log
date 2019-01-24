@@ -1,0 +1,7 @@
+﻿  BST.cpp
+c:\users\angelina\desktop\cpts 122\pa7\pa7\bst.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\angelina\desktop\cpts 122\pa7\pa7\bst.cpp(93): warning C4101: 'current': unreferenced local variable
+c:\users\angelina\desktop\cpts 122\pa7\pa7\bst.cpp(59): warning C4715: 'BST::searchTree': not all control paths return a value
+  PA7.vcxproj -> C:\Users\Angelina\Desktop\CPTS 122\PA7\Debug\PA7.exe
+  PA7.vcxproj -> C:\Users\Angelina\Desktop\CPTS 122\PA7\Debug\PA7.pdb (Full PDB)
